@@ -7,15 +7,25 @@ of tissue samples, along with an indication of the class, which describes whethe
 cells are benign or malignant.
 
 The attributes in the dataset are:
+
 • Cl.thickness - Clump Thickness
+
 • Cell.size - Uniformity of Cell Size
+
 • Cell.shape - Uniformity of Cell Shape
+
 • Marg.adhesion - Marginal Adhesion
+
 • Epith.c.size - Single Epithelial Cell Size
+
 • Bare.nuclei - Bare Nuclei
+
 • Bl.cromatin - Bland Chromatin
+
 • Normal.nucleoli - Normal Nucleoli
+
 • Mitoses - Mitoses
+
 • Class - Class
 
 
