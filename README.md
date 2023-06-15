@@ -1,7 +1,7 @@
 # Breast-Cancer-Classification
 Breast Cancer Classification using Naïve Bayes and Logistic Regression 
 
-#Breast Cancer Data Set
+# Breast Cancer Data Set
 The breast cancer data set contains descriptors of cell nuclei generated from images
 of tissue samples, along with an indication of the class, which describes whether the
 cells are benign or malignant.
